@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Split The Bill</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_scrolling2">Split The Bill</string>
+    <string name="please_check_the_box_between_whom_you_want_to_split_the_bill">Please check the box between whom you want to split the bill</string>
+    <string name="please_enter_who_paid_the_bill">Please enter who paid the bill</string>
+    <string name="add_the_bill">Add the bill</string>
+    <string name="history_n">History:</string>
+    <string name="if_you_made_a_mistake_while_adding_debt_please_enter_it_again_but_with_a_negative_sum">If you made a mistake while adding debt, please enter it again but with a negative sum!</string>
+    <string-array name="cats">
+        <item>meow1</item>
+        <item>meow2</item>
+        <item>meow3</item>
+        <item>meow4</item>
+    </string-array>
+</resources>
